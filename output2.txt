@@ -1,0 +1,93 @@
+0. Exit
+1. Push triangle in queue
+2. Pop triangle
+3. Top triangle in queue
+4. Print triangles from the collection
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneTriangle successfully added
+1
+Enter height and base of the triangle: 0 0
+Input top peak: 0 0
+doneterminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+
+Process returned 3 (0x3)   execution time : 20.325 s
+Press any key to continue.
